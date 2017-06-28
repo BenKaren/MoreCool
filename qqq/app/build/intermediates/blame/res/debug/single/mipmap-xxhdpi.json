@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\btn_nav_profile_suggest_logged_in.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\mipmap-xxhdpi\\btn_nav_profile_suggest_logged_in.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\btn_nav_profile_settings.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\mipmap-xxhdpi\\btn_nav_profile_settings.png"
+    }
+]

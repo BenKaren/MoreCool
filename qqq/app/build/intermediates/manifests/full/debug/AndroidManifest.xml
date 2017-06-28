@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="android.marshon.likequanmintv"
+    android:versionCode="12"
+    android:versionName="1.0.10" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <meta-data
+        android:name="com.bumptech.glide.integration.okhttp.OkHttpGlideModule"
+        android:value="GlideModule" />
+
+    <application
+        android:name="android.marshon.likequanmintv.base.APP"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="android.marshon.likequanmintv.start.SplashActivity"
+            android:theme="@style/FullScreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="android.marshon.likequanmintv.mvp.main.MainActivity"
+            android:launchMode="singleTask" />
+        <activity android:name="android.marshon.likequanmintv.utils.WebContainerActivity" />
+        <activity android:name="android.marshon.likequanmintv.mvp.column.ColumnListActivity" />
+        <activity
+            android:name="android.marshon.likequanmintv.mvp.live.ui.CommonLiveUI"
+            android:configChanges="keyboardHidden|screenSize|orientation"
+            android:launchMode="singleTop" >
+        </activity>
+        <activity
+            android:name="android.marshon.likequanmintv.mvp.live.ui.VerFullLiveUI"
+            android:configChanges="keyboardHidden|screenSize|orientation"
+            android:launchMode="singleTop" >
+        </activity>
+
+        <service android:name="android.marshon.likequanmintv.start.Home" />
+
+        <meta-data
+            android:name="com.bumptech.glide.integration.okhttp3.OkHttpGlideModule"
+            android:value="GlideModule" />
+
+        <service
+            android:name="com.squareup.leakcanary.internal.HeapAnalyzerService"
+            android:enabled="false"
+            android:process=":leakcanary" />
+        <service
+            android:name="com.squareup.leakcanary.DisplayLeakService"
+            android:enabled="false" />
+
+        <activity
+            android:name="com.squareup.leakcanary.internal.DisplayLeakActivity"
+            android:enabled="false"
+            android:icon="@drawable/leak_canary_icon"
+            android:label="@string/leak_canary_display_activity_label"
+            android:taskAffinity="com.squareup.leakcanary"
+            android:theme="@style/leak_canary_LeakCanary.Base" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.squareup.leakcanary.internal.RequestStoragePermissionActivity"
+            android:enabled="false"
+            android:icon="@drawable/leak_canary_icon"
+            android:label="@string/leak_canary_storage_permission_activity_label"
+            android:taskAffinity="com.squareup.leakcanary"
+            android:theme="@style/leak_canary_Theme.Transparent" />
+    </application>
+
+</manifest>

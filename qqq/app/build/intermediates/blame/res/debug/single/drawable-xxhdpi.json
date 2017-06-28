@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\looklook_normal.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable-xxhdpi\\looklook_normal.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_profile_head_bg.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_profile_head_bg.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_tabbar_lanmu_normal.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable-xxhdpi\\btn_tabbar_lanmu_normal.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_tabbar_zhibo_selected.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable-xxhdpi\\btn_tabbar_zhibo_selected.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\live_ver_more_normal.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable-xxhdpi\\live_ver_more_normal.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\live_detail_unpressed.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable-xxhdpi\\live_detail_unpressed.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_jubao_red.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable-xxhdpi\\btn_jubao_red.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\full_screen_unpressed.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable-xxhdpi\\full_screen_unpressed.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\video_loading.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable-xxhdpi\\video_loading.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\grey_close.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable-xxhdpi\\grey_close.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launchernew.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launchernew.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\title_left.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable-xxhdpi\\title_left.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_tabbar_lanmu_selected.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable-xxhdpi\\btn_tabbar_lanmu_selected.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\live_ver_gift_on.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable-xxhdpi\\live_ver_gift_on.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_tabbar_wode_selected.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable-xxhdpi\\btn_tabbar_wode_selected.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\send_commenting_pressed.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable-xxhdpi\\send_commenting_pressed.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_back_unpressed.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable-xxhdpi\\btn_back_unpressed.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_player_content_playic.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_player_content_playic.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\live_ver_focus_on.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable-xxhdpi\\live_ver_focus_on.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bg_pop_item_ver_more.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable-xxhdpi\\bg_pop_item_ver_more.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\living.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable-xxhdpi\\living.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\logo.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_tabbar_zhibo_normal.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable-xxhdpi\\btn_tabbar_zhibo_normal.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\live_ver_gift_off.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable-xxhdpi\\live_ver_gift_off.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_player_content_number.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_player_content_number.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_tabbar_home_normal.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable-xxhdpi\\btn_tabbar_home_normal.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_live_pause.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable-xxhdpi\\btn_live_pause.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\share_normal_white.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable-xxhdpi\\share_normal_white.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\live_ver_more_pressed.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable-xxhdpi\\live_ver_more_pressed.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\live_ver_focus_off.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable-xxhdpi\\live_ver_focus_off.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\share_pressed_red.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable-xxhdpi\\share_pressed_red.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\live_hor_back_pressed.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable-xxhdpi\\live_hor_back_pressed.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\send_commenting_unpressed.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable-xxhdpi\\send_commenting_unpressed.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_jubao_white.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable-xxhdpi\\btn_jubao_white.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\full_screen_pressed.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable-xxhdpi\\full_screen_pressed.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\img_profile_touxiang_default_logged.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable-xxhdpi\\img_profile_touxiang_default_logged.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\live_detail_pressed.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable-xxhdpi\\live_detail_pressed.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_back_pressed.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable-xxhdpi\\btn_back_pressed.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_tabbar_wode_normal.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable-xxhdpi\\btn_tabbar_wode_normal.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\live_hor_back_normal.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable-xxhdpi\\live_hor_back_normal.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_tabbar_home_selected.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable-xxhdpi\\btn_tabbar_home_selected.png"
+    }
+]

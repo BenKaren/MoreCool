@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_profile_game.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_profile_game.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\platform_icon.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\mipmap-xhdpi\\platform_icon.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\seek.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\mipmap-xhdpi\\seek.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\btn_profile_enter.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\mipmap-xhdpi\\btn_profile_enter.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\icon_profile_remind.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\mipmap-xhdpi\\icon_profile_remind.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_profile_host_room.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_profile_host_room.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_profile_room.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_profile_room.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_profile_histoy.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_profile_histoy.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_profile_task.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_profile_task.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_profile_concern.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_profile_concern.png"
+    }
+]
