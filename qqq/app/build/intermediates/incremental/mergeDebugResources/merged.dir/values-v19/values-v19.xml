@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bt_row_height">45dp</dimen>
+    <dimen name="common_margin">12dp</dimen>
+    <dimen name="fullscreen_topmargin">24dp</dimen>
+    <dimen name="status_bar_height">20dp</dimen>
+    <style name="FullScreen" parent="Theme.AppCompat.Light.NoActionBar">
+
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
+</resources>

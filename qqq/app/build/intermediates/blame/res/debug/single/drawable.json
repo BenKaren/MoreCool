@@ -1,0 +1,266 @@
+[
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_fullscreen_pause_selector.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable\\btn_fullscreen_pause_selector.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\looklookl_selector.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable\\looklookl_selector.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_live_hor_send_selector.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable\\btn_live_hor_send_selector.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_live_ver_gift_switch_selector.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable\\btn_live_ver_gift_switch_selector.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_search_selector.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable\\btn_search_selector.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_mine_recharge.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable\\shape_mine_recharge.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_selbg_white.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable\\btn_selbg_white.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_share_selector.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable\\btn_share_selector.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_live_hor_share_selector.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable\\btn_live_hor_share_selector.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\corner_live_num_bg.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable\\corner_live_num_bg.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_live_ver_num.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable\\bg_live_ver_num.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user_headimg.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable\\user_headimg.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_mine_topup.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable\\btn_mine_topup.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_live_ver_focus_selector.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable\\btn_live_ver_focus_selector.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_seed.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable\\shape_seed.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_item_topup_pressed.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable\\shape_item_topup_pressed.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_live_jubao_selector.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable\\btn_live_jubao_selector.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_item_topup_unpressed.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable\\shape_item_topup_unpressed.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\color_red_white_selector.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable\\color_red_white_selector.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\live_landview_selector.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable\\live_landview_selector.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\leak_canary_toast_background.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.5\\res\\drawable\\leak_canary_toast_background.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_fullscreen_back_selecotr.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable\\btn_fullscreen_back_selecotr.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_anim.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable\\loading_anim.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\live_loading.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable\\live_loading.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_back_selector.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable\\btn_back_selector.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rect_charity_list.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable\\rect_charity_list.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_live_hor_et.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable\\bg_live_hor_et.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_danmu_open_switch_selector.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable\\btn_danmu_open_switch_selector.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_live_hor_refresh.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable\\btn_live_hor_refresh.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_default_head.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\exploded-aar\\likequanmintv-master\\publiclibrary\\unspecified\\res\\drawable\\ic_default_head.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_live_more_selector.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable\\btn_live_more_selector.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_default_cover.png",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\exploded-aar\\likequanmintv-master\\publiclibrary\\unspecified\\res\\drawable\\ic_default_cover.png"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_live_hor_collect.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable\\btn_live_hor_collect.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_huihong_tx_selector.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable\\btn_huihong_tx_selector.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_fullscreen_selector.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable\\btn_fullscreen_selector.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_send_commenting_selector.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable\\btn_send_commenting_selector.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_live_hotword_selector.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable\\btn_live_hotword_selector.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\projecttest\\likequanmintv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_live_back_selector.xml",
+        "source": "D:\\projecttest\\likequanmintv-master\\app\\src\\main\\res\\drawable\\btn_live_back_selector.xml"
+    }
+]
